@@ -1,0 +1,14 @@
+This is math.cpp DOCUMENT
+Written by L
+-------------------------
+Input
+Find level of '('
+Trace each (...)
+Convert to linked-list
+Process priority:
+1. not
+2. and or
+3. implies
+check level in case ))
+How many time repeat the process? Base on level;
+For each value;
